@@ -1,13 +1,10 @@
 //
 //  CoinModel.swift
-//  SwiftfulCrypto
+//  CrytoFy
 //
-//  Created by Nick Sarno on 5/8/21.
-//
+//  Created by Ganesh Patil on 27/06/23.
 
-import Foundation
-
-// CoinGecko API info
+//// CoinGecko API info
 /*
  URL: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=250&page=1&sparkline=true&price_change_percentage=24h
  
