@@ -19,6 +19,7 @@
 		67CA4D4D2A4DD80100752F90 /* CoinRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CA4D4C2A4DD80100752F90 /* CoinRowView.swift */; };
 		67CA4D4F2A4DD85400752F90 /* PreviewProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CA4D4E2A4DD85400752F90 /* PreviewProvider.swift */; };
 		67CA4D512A4DF05700752F90 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CA4D502A4DF05700752F90 /* Double.swift */; };
+		67CA4D532A4F4B8800752F90 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CA4D522A4F4B8800752F90 /* HomeViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		67CA4D4C2A4DD80100752F90 /* CoinRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinRowView.swift; sourceTree = "<group>"; };
 		67CA4D4E2A4DD85400752F90 /* PreviewProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewProvider.swift; sourceTree = "<group>"; };
 		67CA4D502A4DF05700752F90 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
+		67CA4D522A4F4B8800752F90 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 		67CA4D402A4B2CF200752F90 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				67CA4D522A4F4B8800752F90 /* HomeViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67CA4D4D2A4DD80100752F90 /* CoinRowView.swift in Sources */,
+				67CA4D532A4F4B8800752F90 /* HomeViewModel.swift in Sources */,
 				67CA4D2E2A4B287F00752F90 /* ContentView.swift in Sources */,
 				67CA4D432A4B2D1700752F90 /* HomeView.swift in Sources */,
 				67CA4D2C2A4B287F00752F90 /* CrytoFyApp.swift in Sources */,
